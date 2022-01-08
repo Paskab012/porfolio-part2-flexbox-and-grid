@@ -3,15 +3,15 @@
 # Using flexbox and grid
 
 > Simple design of mobile-porfolio-skeleton
-> Mobile phone view
+> Mobile phone view on Motorola G4
 
-![screenshot](./mobile-portfolio.png)!
-
-In mobile-porfolio-skeleton project we are s
+![screenshot](./motoG4.png)!
 
 ## Built With
 
-- Html and Css only.
+- Html and Css
+- Figma for bette design
+  . fiew figma design: (https://www.figma.com/file/l7SqJ3ZfkAKih9sFxvWSR4/Microverse-Student-Project-1?node-id=39%3A122)
 
 ## Getting Started
 
@@ -21,13 +21,13 @@ Getting localy a copy of this project you should be aware of several steps below
 
 Make sure:
 
-- You have few knowledge about Html, Css, flexbox, Github and Linters
+- You have few knowledge about Html, Css, flexbox,grid, Github and Linters
+- You have installed Live Server to view the project in the browser.
 
 ### Usage
 
-1. Use this link ( $ git@github.com:KABIKA681/porfolio-mobile-version-skeleton.git)to clone the repository and then run it into your computer
+1. Use this link ( `git@github.com:KABIKA681/porfolio-part2-flexbox-and-grid.git`)to clone the repository and then run it into your computer
 2. Open the Html document localy(into your computer), open index.html file.
-   c. You have installed Live Server to view the project in the browser.
 
 👤 **\*Pascal Kabika Mp**
 
