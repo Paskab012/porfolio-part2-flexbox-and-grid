@@ -52,12 +52,26 @@ body {
   margin-top: 10px;
 }
 
+p {
+  margin-bottom: 15px;
+  color: #344563;
+  font-size: 15px;
+  line-height: 24px;
+  line-height: 26px;
+}
+
 .tonic-content-canopy p {
   color: #344563;
   position: static;
   font-weight: 500;
   font-size: 15px;
   line-height: 16px;
+}
+
+ul li {
+  margin-top: 5px;
+  margin-bottom: 8px;
+  color: rgb(95, 95, 173);
 }
 
 .tonic-list li {
@@ -68,14 +82,6 @@ body {
   margin-top: -2px;
 }
 
-p {
-  margin-bottom: 15px;
-  color: #344563;
-  font-size: 15px;
-  line-height: 24px;
-  line-height: 26px;
-}
-
 h1 {
   font-size: 36px;
   margin-top: -20px;
@@ -83,12 +89,6 @@ h1 {
 
 ul {
   display: flex;
-}
-
-ul li {
-  margin-top: 5px;
-  margin-bottom: 8px;
-  color: rgb(95, 95, 173);
 }
 
 .btn-tonic {
@@ -177,7 +177,7 @@ i {
   background-image: url(./asset//contact\ form\ shapes-mobile@2x.png);
   background-repeat: no-repeat;
   padding-top: 80px;
-  border-radius: 80px 0px 0px 0px;
+  border-top-left-radius: 80px;
   color: white;
   position: absolute;
 }
