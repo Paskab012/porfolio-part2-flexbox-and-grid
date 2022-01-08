@@ -1,0 +1,19 @@
+{
+  "name": "porfolio-part2-flexbox-and-grid",
+  "version": "1.0.0",
+  "description": "# Using flexbox and grid",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KABIKA681/porfolio-part2-flexbox-and-grid.git"
+  },
+  "author": "Jaman Dedy, Gilles Kagarama <jeandedieuam@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KABIKA681/porfolio-part2-flexbox-and-grid/issues"
+  },
+  "homepage": "https://github.com/KABIKA681/porfolio-part2-flexbox-and-grid#readme"
+}
